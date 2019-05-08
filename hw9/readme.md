@@ -8,7 +8,7 @@
 + 数据建模，为了简化描述仅需要给出表清单，例如： 
     - Hotel（ID/Key，Name，LoctionID/Fkey，Address…..）
 
-    ![](截图/1.PNG)
+    ![](截图/1.png)
 
     + Traveler(ID/key, name, phoneNumber)
     + Reservation(ID/Key, TravelerID/FKey, HotelID/FKey, DateTime, NumberOfNights)
